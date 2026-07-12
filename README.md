@@ -37,25 +37,26 @@
 class RupamBiswas:
 
     name          = "Rupam Biswas"
-    role          = "AI Engineer & Data Scientist"
+    role          = "Master's Student in Data Science & Software Engineer"
     status        = "M.Sc. Data Science @ TU Dortmund University"
-    degree        = "B.E. Computer Engineering"
-    previous_role = "Associate Software Engineer (Banking Domain)"
+    degree        = "B.E. Computer Engineering (1.5/5 German Equivalent)"
+    previous_role = "Associate Software Engineer @ Data Edge Limited"
+    internship    = "Data Science Intern @ SAP India"
     location      = "Dortmund, Germany"
 
-    research      = ["LLM", "RAG Systems", "AI Agents", "Computer Vision"]
-    focus         = ["GenAI", "Machine Learning", "Data Engineering"]
-    tools         = ["Python", "Power BI", "PyTorch", "FastAPI", "SQL"]
+    expertise     = ["Machine Learning", "Deep Learning", "Backend Development", "Real-Time Data Systems"]
+    focus         = ["LLMs", "AI Agents", "Business Intelligence", "IoT Integration"]
+    tools         = ["Python", ".NET Core", "SQL Server", "TensorFlow", "FastAPI"]
 
     publications  = [
-        "LungNet-CAM (Accepted Conference Paper)",
-        "Federated Learning for Tumor Classification (Submitted)"
+        "LungNet-CAM (Accepted at IEEE QPAIN, 2026)",
+        "Federated Learning for Tumor Classification (Submitted to SPICSCON 2026 IEEE)"
     ]
 
-    seeking       = "Working Student Position in AI / ML / Data Science"
+    seeking       = "Werkstudent opportunities in Software Engineering, Data Science, or AI"
 
     def hello(self):
-        return "Building AI that solves real-world problems."
+        return "Passionate about building intelligent systems and applying data-driven solutions."
 ```
 
 <br/>
@@ -73,40 +74,30 @@ class RupamBiswas:
 ![Python](https://img.shields.io/badge/Python-000d1a?style=for-the-badge&logo=python&logoColor=00ffe7)
 ![SQL](https://img.shields.io/badge/SQL-000d1a?style=for-the-badge&logo=postgresql&logoColor=00ffe7)
 ![C#](https://img.shields.io/badge/C%23-000d1a?style=for-the-badge&logo=csharp&logoColor=00ffe7)
-![Go](https://img.shields.io/badge/Go-000d1a?style=for-the-badge&logo=go&logoColor=00ffe7)
-![Bash](https://img.shields.io/badge/Bash-000d1a?style=for-the-badge&logo=gnubash&logoColor=00ffe7)
 
-**AI / ML Frameworks**
+**Frameworks & Backend**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-000d1a?style=for-the-badge&logo=pytorch&logoColor=00ffe7)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000d1a?style=for-the-badge&logo=tensorflow&logoColor=00ffe7)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000d1a?style=for-the-badge&logo=scikitlearn&logoColor=00ffe7)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-000d1a?style=for-the-badge&logo=huggingface&logoColor=00ffe7)
-![LangChain](https://img.shields.io/badge/LangChain-000d1a?style=for-the-badge&logo=chainlink&logoColor=00ffe7)
-![OpenCV](https://img.shields.io/badge/OpenCV-000d1a?style=for-the-badge&logo=opencv&logoColor=00ffe7)
-
-**Data & Analytics**
-
-![Power BI](https://img.shields.io/badge/Power_BI-000d1a?style=for-the-badge&logo=powerbi&logoColor=00ffe7)
-![Pandas](https://img.shields.io/badge/Pandas-000d1a?style=for-the-badge&logo=pandas&logoColor=00ffe7)
-![NumPy](https://img.shields.io/badge/NumPy-000d1a?style=for-the-badge&logo=numpy&logoColor=00ffe7)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000d1a?style=for-the-badge&logo=python&logoColor=00ffe7)
-![Excel](https://img.shields.io/badge/Excel-000d1a?style=for-the-badge&logo=microsoftexcel&logoColor=00ffe7)
-
-**Backend & DevOps**
-
+![.NET Core](https://img.shields.io/badge/.NET_Core-000d1a?style=for-the-badge&logo=dotnet&logoColor=00ffe7)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000d1a?style=for-the-badge&logo=fastapi&logoColor=00ffe7)
 ![Flask](https://img.shields.io/badge/Flask-000d1a?style=for-the-badge&logo=flask&logoColor=00ffe7)
-![.NET](https://img.shields.io/badge/.NET-000d1a?style=for-the-badge&logo=dotnet&logoColor=00ffe7)
+![Django](https://img.shields.io/badge/Django-000d1a?style=for-the-badge&logo=django&logoColor=00ffe7)
+![SignalR](https://img.shields.io/badge/SignalR-000d1a?style=for-the-badge&logo=signal&logoColor=00ffe7)
 ![Docker](https://img.shields.io/badge/Docker-000d1a?style=for-the-badge&logo=docker&logoColor=00ffe7)
-![Git](https://img.shields.io/badge/Git-000d1a?style=for-the-badge&logo=git&logoColor=00ffe7)
-![Linux](https://img.shields.io/badge/Linux-000d1a?style=for-the-badge&logo=linux&logoColor=00ffe7)
 
-**Databases**
+**Data Science & AI**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000d1a?style=for-the-badge&logo=postgresql&logoColor=00ffe7)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000d1a?style=for-the-badge&logo=tensorflow&logoColor=00ffe7)
+![Keras](https://img.shields.io/badge/Keras-000d1a?style=for-the-badge&logo=keras&logoColor=00ffe7)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000d1a?style=for-the-badge&logo=scikitlearn&logoColor=00ffe7)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000d1a?style=for-the-badge&logo=huggingface&logoColor=00ffe7)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-000d1a?style=for-the-badge&logo=openai&logoColor=00ffe7)
+
+**Databases & Analytics**
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-000d1a?style=for-the-badge&logo=microsoftsqlserver&logoColor=00ffe7)
 ![FAISS](https://img.shields.io/badge/FAISS-000d1a?style=for-the-badge&logo=meta&logoColor=00ffe7)
+![Power BI](https://img.shields.io/badge/Power_BI-000d1a?style=for-the-badge&logo=powerbi&logoColor=00ffe7)
+![Tableau](https://img.shields.io/badge/Tableau-000d1a?style=for-the-badge&logo=tableau&logoColor=00ffe7)
 
 </div>
 
@@ -126,25 +117,25 @@ class RupamBiswas:
 <tr>
 <td width="50%">
 
-### AI Policy Chatbot
-> **LLM + RAG System** for intelligent document Q&A
+### Real-Time Bank Monitoring
+> **Real-time transaction monitoring platform** for Trust Bank PLC
 
 ```
-Stack:  Python, LangChain, OpenAI
-        FAISS, FastAPI, RAG
-Status: Complete
+Stack:  Python, .NET Core, SQL Server
+        SignalR, Linux
+Status: Deployed (Production)
 ```
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-000d1a?style=flat&logo=github&logoColor=00ffe7)](https://github.com/Rupam-Biswas44)
 
 </td>
 <td width="50%">
 
-### Lemon Disease Detection
-> **Computer Vision** with EfficientNet and Vision Transformer
+### Plant Disease Identification
+> **Deep learning model** with Meta LLaMA LLM integration
 
 ```
-Stack:  PyTorch, EfficientNet, ViT
-        OpenCV, FastAPI
+Stack:  Python, Streamlit, TensorFlow
+        Keras, LLaMA
 Status: Complete
 ```
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-000d1a?style=flat&logo=github&logoColor=00ffe7)](https://github.com/Rupam-Biswas44)
@@ -154,25 +145,25 @@ Status: Complete
 <tr>
 <td width="50%">
 
-### Banking Monitoring System
-> **Enterprise Dashboard** with real-time alerts
+### Multilingual RAG System
+> **End-to-end pipeline** for English & Bengali document retrieval
 
 ```
-Stack:  .NET, SQL Server, SignalR
-        Power BI, C#
-Status: Deployed (Production)
+Stack:  Python, FastAPI, OpenAI API
+        FAISS, Tesseract OCR
+Status: Complete
 ```
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-000d1a?style=flat&logo=github&logoColor=00ffe7)](https://github.com/Rupam-Biswas44)
 
 </td>
 <td width="50%">
 
-### Multilingual Search Engine
-> **Semantic Search** with Sentence Transformers
+### GenAI Local Search Engine
+> **Semantic search & learning recommendation** with fine-tuned LLMs
 
 ```
-Stack:  Python, Sentence Transformers
-        FAISS, Vector Search
+Stack:  Python, Hugging Face, Transformers
+        Attention Mechanisms
 Status: Complete
 ```
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-000d1a?style=flat&logo=github&logoColor=00ffe7)](https://github.com/Rupam-Biswas44)
@@ -198,14 +189,14 @@ Status: Complete
 <td>
 
 ### LungNet-CAM
-**Accepted Conference Paper**
+**A Hybrid Convolution and Attention-Based Deep Learning Framework for CT-Based Lung Cancer Detection**
 
-> Deep learning-based lung disease classification using convolutional neural networks with Class Activation Maps for explainability.
+> Co-authored research accepted and presented at [IEEE QPAIN], 2026.
 
 ```
-Domain:   Medical AI, Computer Vision, XAI
-Method:   CNN, CAM, Transfer Learning
-Status:   Accepted and Published
+Domain:   Medical AI, Deep Learning, Computer Vision
+Method:   Convolution & Attention Ensembles, CNN
+Status:   Accepted and Presented
 ```
 
 </td>
@@ -214,14 +205,14 @@ Status:   Accepted and Published
 <td>
 
 ### Federated Learning for Tumor Classification
-**Under Review**
+**Improving Non-IID Based Tumor Classification Through Resource-Efficient Federated Learning with Attention Ensemble CNNs**
 
-> Privacy-preserving machine learning for medical image classification using federated learning across distributed hospital datasets.
+> Co-authored privacy-preserving machine learning research.
 
 ```
 Domain:   Federated Learning, Medical AI, Privacy ML
-Method:   FL, CNN, Distributed Training
-Status:   Submitted for Review
+Method:   FL, Attention Ensemble CNNs
+Status:   Submitted for peer review at [SPICSCON2026] IEEE
 ```
 
 </td>
@@ -316,20 +307,20 @@ Status:   Submitted for Review
 ```
 +-------------------------------------------------------------------------+
 |                                                                         |
-|   2024 -->  M.Sc. Data Science  @  TU Dortmund University              |
-|             [ Machine Learning, Computer Vision, AI Agents ]           |
+|   2026 -->  M.Sc. Data Science  @  TU Dortmund University              |
+|             [ Machine Learning, Artificial Intelligence ]              |
 |                                                                         |
-|   2023 -->  Published Research: LungNet-CAM (Conference Paper)         |
-|             [ Medical AI, Explainable AI, Computer Vision ]            |
+|   2025 -->  Associate Software Engineer @ Data Edge Limited            |
+|             [ Python, .NET Core, SQL Server, SignalR ]                 |
 |                                                                         |
-|   2022 -->  Associate Software Engineer (Banking Domain)               |
-|             [ .NET, SQL Server, Power BI, C#, Dashboard Development ]  |
+|   2024 -->  Data Science Intern @ SAP India - CodeUnnati               |
+|             [ Machine Learning, Image Processing, IoT ]                |
 |                                                                         |
-|   2021 -->  B.E. Computer Engineering (Graduated)                      |
-|             [ Software Engineering, Algorithms, Networks ]             |
+|   2020 -->  B.E. Computer Engineering @ GTU (ICCR Scholarship)         |
+|             [ Graduated with 1.5/5 German Equivalent ]                 |
 |                                                                         |
-|   NOW  -->  Seeking Working Student Roles in AI / ML / Data Science    |
-|             [ Dortmund, Germany ]                                       |
+|   NOW  -->  Seeking Werkstudent Roles in Software Engineering / Data   |
+|             [ Dortmund, Germany ]                                      |
 |                                                                         |
 +-------------------------------------------------------------------------+
 ```
