@@ -229,17 +229,13 @@ Status:   Submitted for peer review at [SPICSCON2026] IEEE
 
 ## `> github --stats`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rupam-Biswas44&show_icons=true&theme=chartreuse-dark&bg_color=000d1a&title_color=00ffe7&icon_color=00ffe7&text_color=c9d1d9&border_color=00ffe7"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rupam-Biswas44&show_icons=true&theme=chartreuse-dark&bg_color=000d1a&title_color=00ffe7&icon_color=00ffe7&text_color=c9d1d9&border_color=00ffe7"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupam-Biswas44&layout=compact&theme=chartreuse-dark&bg_color=000d1a&title_color=00ffe7&text_color=c9d1d9&border_color=00ffe7"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Rupam-Biswas44&layout=compact&theme=chartreuse-dark&bg_color=000d1a&title_color=00ffe7&text_color=c9d1d9&border_color=00ffe7"/>
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupam-Biswas44&theme=chartreuse-dark&background=000d1a&border=00ffe7&ring=00ffe7&fire=febc2e&currStreakLabel=00ffe7&sideNums=00ffe7&sideLabels=5a8fa8" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rupam-Biswas44&theme=matrix&no-frame=true&row=1&column=6&margin-w=10" alt="trophies"/>
 
 </div>
 
