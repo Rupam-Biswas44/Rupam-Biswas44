@@ -229,9 +229,9 @@ Status:   Submitted for peer review at [SPICSCON2026] IEEE
 
 ## `> github --stats`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rupam-Biswas44&show_icons=true&theme=chartreuse-dark&bg_color=000d1a&title_color=00ffe7&icon_color=00ffe7&text_color=c9d1d9&border_color=00ffe7&count_private=true&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rupam-Biswas44&show_icons=true&theme=chartreuse-dark&bg_color=000d1a&title_color=00ffe7&icon_color=00ffe7&text_color=c9d1d9&border_color=00ffe7"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-Biswas44&layout=compact&theme=chartreuse-dark&bg_color=000d1a&title_color=00ffe7&text_color=c9d1d9&border_color=00ffe7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rupam-Biswas44&layout=compact&theme=chartreuse-dark&bg_color=000d1a&title_color=00ffe7&text_color=c9d1d9&border_color=00ffe7"/>
 
 <br/><br/>
 
@@ -335,11 +335,11 @@ Status:   Submitted for peer review at [SPICSCON2026] IEEE
 
 ## `> connect --all`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupam_Biswas-000d1a?style=for-the-badge&logo=linkedin&logoColor=00ffe7)](https://www.linkedin.com/in/rupam-biswas44)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rupam_Biswas-000d1a?style=for-the-badge&logo=linkedin&logoColor=00ffe7)](https://linkedin.com/in/rupam-biswas-7788891a7)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-rupambiswas.dev-000d1a?style=for-the-badge&logo=googlechrome&logoColor=00ffe7)](https://rupambiswas.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rupambiswasde.netlify.app-000d1a?style=for-the-badge&logo=googlechrome&logoColor=00ffe7)](https://rupambiswasde.netlify.app)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact_Me-000d1a?style=for-the-badge&logo=gmail&logoColor=00ffe7)](mailto:rupam@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-000d1a?style=for-the-badge&logo=gmail&logoColor=00ffe7)](mailto:rupambiswasbd44@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Rupam--Biswas44-000d1a?style=for-the-badge&logo=github&logoColor=00ffe7)](https://github.com/Rupam-Biswas44)
 
