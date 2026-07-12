@@ -312,7 +312,7 @@ Status:   Submitted for peer review at [SPICSCON2026] IEEE
 |   2024 -->  Data Science Intern @ SAP India - CodeUnnati               |
 |             [ Machine Learning, Image Processing, IoT ]                |
 |                                                                         |
-|   2020 -->  B.E. Computer Engineering @ GTU (ICCR Scholarship)         |
+|   2024 -->  B.E. Computer Engineering @ GTU (ICCR Scholarship)         |
 |             [ Graduated with 1.5/5 German Equivalent ]                 |
 |                                                                         |
 |   NOW  -->  Seeking Werkstudent Roles in Software Engineering / Data   |
